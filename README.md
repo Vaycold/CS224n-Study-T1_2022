@@ -16,9 +16,9 @@
 
 ### 2. 스터디 구성원
 
-**김병찬**  
-**이재용**  
-**김서린**  
+[**김병찬**](https://github.com/Vaycold)  
+[**이재용**](https://github.com/jaeyonggy)  
+[**김서린**](https://github.com/Seorin-Kim)  
 <br/>
 
 <br>
