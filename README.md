@@ -4,7 +4,7 @@
 <br>
 
 
-### 1. 스터디 소개
+## 1. 스터디 소개
 
 #### CS224n: Natural Language Processing with Deep Learning
 [**Stanford University**](https://web.stanford.edu/class/cs224n/index.html)의 [**CS224n winter 2021**](https://www.youtube.com/watch?v=rmVRLeJRkl4&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ) 커리큘럼을 따라 스터디가 진행됩니다.  
@@ -14,16 +14,16 @@
 
 <br>
 
-### 2. 스터디 구성원
+## 2. 스터디 구성원
 
-[**김병찬**](https://github.com/Vaycold)  
-[**이재용**](https://github.com/jaeyonggy)  
-[**김서린**](https://github.com/Seorin-Kim)  
+• [**김병찬**](https://github.com/Vaycold) - 중앙대학교 통계학과  
+• [**이재용**](https://github.com/jaeyonggy) - 중앙대학교 통계학과  
+• [**김서린**](https://github.com/Seorin-Kim) - 중앙대학교 응용통계학과  
 <br/>
 
 <br>
 
-### 3. 스터디 스케줄
+## 3. 스터디 스케줄
 
 |       Date       | Week | Topic | Reviewer | Slides |
 |:----------------:|:------:|:----------------------------------------:|:----------:|:------:|
@@ -47,7 +47,7 @@
 | 미정 | 6 | BERT and Other Pre-trained Language Models | 김서린 | [Slide]
 <br>
 
-### 4. 스터디 규칙 안내
+## 4. 스터디 규칙 안내
 
 - **사전에 정한 목요일 15:00**에 진행됩니다.
 
@@ -63,7 +63,7 @@
 
 <br>
 
-### 5. 저장소 사용 규칙
+## 5. 저장소 사용 규칙
 
   - 발표 자료는 할당된 주차, 강의에 맞게 업로드 해주셔야 합니다.
 
