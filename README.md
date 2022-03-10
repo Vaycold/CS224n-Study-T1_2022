@@ -78,7 +78,5 @@
 │   ├── week4
 │   ├── week5
 │   ├── week6
-├── LICENSE
-├── .gitignore
 └── README.md
 ```
