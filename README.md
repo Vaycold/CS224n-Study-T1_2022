@@ -71,7 +71,7 @@
 - 저장소 구조
 
 ```
-├── Slides # for lecture files
+├── Slides # for presentation files
 │   ├── week1
 │   ├── week2
 │   ├── week3
